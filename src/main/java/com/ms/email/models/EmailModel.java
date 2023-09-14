@@ -1,11 +1,9 @@
 package com.ms.email.models;
 
-import javax.persistence.*;
-
 import com.ms.email.enums.StatusEmail;
 import lombok.Data;
 
-import java.io.Serial;
+import javax.persistence.*;
 import java.io.Serializable;
 import java.time.LocalDateTime;
 
